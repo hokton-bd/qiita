@@ -4,7 +4,7 @@ tags:
   - 'Salesforce'
   - '資格'
 private: false
-updated_at: '2025-06-19T20:36:22+09:00'
+updated_at: ''
 id: 6e3559398f60d865019d
 organization_url_name: null
 slide: false
