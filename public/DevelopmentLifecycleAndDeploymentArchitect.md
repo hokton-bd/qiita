@@ -1,10 +1,10 @@
 ---
 title: Salesforce認定 Development Lifecycle and Deployment Architect 合格体験記
 tags:
-  - 'Salesforce'
-  - '資格'
+  - Salesforce
+  - 資格
 private: false
-updated_at: ''
+updated_at: '2025-06-19T21:04:39+09:00'
 id: 6e3559398f60d865019d
 organization_url_name: null
 slide: false
